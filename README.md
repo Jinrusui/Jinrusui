@@ -10,6 +10,8 @@
 
 I'm a Master's student in Artificial Intelligence at the University of Edinburgh. My work revolves around **large language models**, **multimodal learning**, **world models**, and **reinforcement learning**. I’m passionate about building intelligent agents, exploring innovative learning strategies, and redefining what AI can do in dynamic environments—especially in games and simulations.
 
+Before that, I completed a BSc in Mathematics, Statistics, Economics, and Operational Research at the University of Warwick.
+
 ---
 
 ### 🔭 Current Project
