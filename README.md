@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Jinru Sui</h1>
 
 <p align="center">
-  🎓 Master's Student in AI @ University of Edinburgh &nbsp; | &nbsp; 🤖 Game AI & Multimodal Enthusiast &nbsp; | &nbsp; 🌍 World Model Researcher
+  🎓 MSc in AI @ University of Edinburgh &nbsp; | &nbsp; 🤖 Game AI & Multimodal Enthusiast &nbsp; | &nbsp; 🌍 World Model Beliver
 </p>
 
 ---
@@ -57,11 +57,6 @@ I'm a Master's student in Artificial Intelligence at the University of Edinburgh
 - 📧 Email: [suijinru@outlook.com](mailto:suijinru@outlook.com)  
 - 🔗 LinkedIn: [linkedin.com/in/jinru-sui-b64425271](https://www.linkedin.com/in/jinru-sui-b64425271)  
 
----
-
-<p align="center"><em>
-⚡ Fun fact: My AI agents don’t just learn — they strategize, explore, and speak like Winston Churchill.
-</em></p>
 
  
 
