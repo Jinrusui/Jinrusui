@@ -1,34 +1,67 @@
-## Hi there 👋 I'm Jinru Sui
+<h1 align="center">Hi there 👋 I'm Jinru Sui</h1>
 
-Welcome to my GitHub! I'm a Master's student in Artificial Intelligence at the University of Edinburgh with a strong focus on **large language/multimodal models**, **world model**, and **reinforcement learning**. I enjoy building intelligent agents, exploring innovative learning methods, and pushing the boundaries of game AI.
+<p align="center">
+  🎓 Master's Student in AI @ University of Edinburgh &nbsp; | &nbsp; 🤖 Game AI & Multimodal Enthusiast &nbsp; | &nbsp; 🌍 World Model Researcher
+</p>
 
-### 🔭 Current Projects
-- **🌊 World Model + VLM Pipeline for Environment Simulation** (Master’s Dissertation)  
-  Developing a hybrid framework where a **vision-language model** plans actions and a **learned world model** simulates outcomes for fine-grained tasks.  
+---
+
+### 🚀 About Me
+
+I'm a Master's student in Artificial Intelligence at the University of Edinburgh. My work revolves around **large language models**, **multimodal learning**, **world models**, and **reinforcement learning**. I’m passionate about building intelligent agents, exploring innovative learning strategies, and redefining what AI can do in dynamic environments—especially in games and simulations.
+
+---
+
+### 🔭 Current Project
+
+- **🌊 World Model + VLM Pipeline for Environment Simulation** *(Master’s Dissertation)*  
+  Developing a hybrid framework that combines a **vision-language model (VLM)** for high-level planning with a **learned world model** for low-level simulation.  
   🎮 **Target Task**: Atari Breakout  
-  🔍 **Goal**: Bridge high-level reasoning and low-level control.
+  🎯 **Goal**: Bridge high-level reasoning and low-level control in interactive environments.
 
-### 🧠 Interests & Strengths
-- **Multimodal AI**: Vision-language alignment, multimodal reasoning, embodied agents  
-- **Reinforcement Learning**: Reward shaping, curriculum learning, model-based RL  
-- **Large Language Models**: Fine-tuning, retrieval-augmented generation (RAG), prompt engineering, chain-of-thought (CoT), character role-playing  
-- **NLP**: POS tagging, dependency parsing, word embeddings  
+---
 
-### 📚 Academic & Technical Skills
-- **Programming**: Python, PyTorch, HuggingFace Transformers  
-- **Tools**: Blender (for rendering and AR), SpaCy, Scikit-learn  
-- **Infrastructure**: Linux, Google Cloud Platform, Git  
+### 💡 Research Interests
 
-### 💬 Ask Me About
-- Designing intelligent agents for games and simulations  
-- Fine-tuning LLMs to role-play real historical figures  
-- Building pipelines that connect language, vision, and physics  
-- Creating engaging and immersive AI-powered educational tools  
+- **🧠 Multimodal AI**  
+  Vision-language alignment · Multimodal reasoning · Embodied agents  
+- **🎮 Reinforcement Learning**  
+  Reward shaping · Curriculum learning · Model-based RL  
+- **📚 Large Language Models (LLMs)**  
+  Fine-tuning · Retrieval-augmented generation (RAG) · Prompt engineering · Chain-of-thought (CoT) · Character role-playing  
+- **💬 Natural Language Processing (NLP)**  
+  POS tagging · Dependency parsing · Word embeddings  
 
-### 📫 Let's Connect!
+---
+
+### 🛠️ Technical Skills
+
+- **Languages & Frameworks**: Python · PyTorch · HuggingFace Transformers  
+- **NLP & ML Tools**: SpaCy · Scikit-learn  
+- **Simulation & Rendering**: Blender (AR, physics, visual effects)  
+- **DevOps & Platforms**: Linux · Git · Google Cloud Platform  
+
+---
+
+### 💬 Let's Talk About
+
+- 🎯 Intelligent agents in games and simulations  
+- 🎭 Fine-tuning LLMs to mimic real-world personas  
+- 🔁 Integrating world models with multimodal reasoning  
+- 🧑‍🏫 Making education immersive with conversational AI  
+
+---
+
+### 📫 Contact Me
+
 - 📧 Email: [suijinru@outlook.com](mailto:suijinru@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/jinru-sui-b64425271](https://www.linkedin.com/in/jinru-sui-b64425271)  
+- 🔗 LinkedIn: [linkedin.com/in/jinru-sui-b64425271](https://www.linkedin.com/in/jinru-sui-b64425271)  
 
-⚡ **Fun fact:** My AI agents don’t just learn — they *strategize*, *explore*, and *talk like Winston Churchill*.
+---
+
+<p align="center"><em>
+⚡ Fun fact: My AI agents don’t just learn — they strategize, explore, and speak like Winston Churchill.
+</em></p>
+
  
 
