@@ -19,8 +19,9 @@ Before that, I completed a BSc in Mathematics, Statistics, Economics, and Operat
 
 - **🎥 Video Understanding for RL Agent Behavior Analysis** *(Master’s Dissertation)*  
   Developing a video understanding framework to analyze **high-dimensional reinforcement learning agent behavior** in dynamic environments.  
-  🎯 **Goal**: Automatically summarize learned strategies to enhance user interpretability and understanding.
+  🎯 **Goal**: Automatically summarize learned strategies to enhance user interpretability and understanding.  
   🔗 [GitHub Repo – strategy2text](https://github.com/Jinrusui/strategy2text)
+
 
 ### 💡 Research Interests
 
