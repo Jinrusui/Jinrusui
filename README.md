@@ -7,6 +7,7 @@
 ---
 
 ### 🚀 About Me
+I'm excited to be joining [Paremtrix.ai](https://www.chaocanshu.cn/) in Shenzhen, China as a **Reinforcement Learning Researcher** for AI+Game, starting **September 1st**!
 
 I'm a Master's student in Artificial Intelligence at the University of Edinburgh. My work revolves around **large language/multimodal models**, **post training**, **world models**, and **reinforcement learning**. I’m passionate about building intelligent agents, exploring innovative learning strategies, and redefining what AI can do in dynamic environments—especially in games and simulations.
 
