@@ -17,12 +17,9 @@ Before that, I completed a BSc in Mathematics, Statistics, Economics, and Operat
 
 ### 🔭 Current Project
 
-- **🌊 World Model + VLM Pipeline for Environment Simulation** *(Master’s Dissertation)*  
-  Developing a hybrid framework that combines a **vision-language model (VLM)** for high-level planning with a **learned world model** for low-level simulation.  
-  🎮 **Target Task**: Atari Breakout  
-  🎯 **Goal**: Bridge high-level reasoning and low-level control in interactive environments.
-
----
+- **🎥 Video Understanding for RL Agent Behavior Analysis** *(Master’s Dissertation)*  
+  Developing a video understanding framework to analyze **high-dimensional reinforcement learning agent behavior** in dynamic environments.  
+  🎯 **Goal**: Automatically summarize learned strategies to enhance user interpretability and understanding.
 
 ### 💡 Research Interests
 
